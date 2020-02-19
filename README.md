@@ -83,7 +83,7 @@
 ## Related Lists
 
 - [Awesome Bitcoin](https://github.com/igorbarinov/awesome-bitcoin#readme)
-- [Awesome Lightning Network](https://github.com/bcongdon/awesome-lightning-network_
+- [Awesome Lightning Network](https://github.com/bcongdon/awesome-lightning-network)
 - [Awesome Liquid](https://github.com/valerio-vaccaro/awesome-liquid)
 - [Awesome Layer 2](https://github.com/Awesome-Layer-2/awesome-layer-2)
 
