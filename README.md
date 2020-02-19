@@ -3,7 +3,7 @@
 > A curated list of projects, info, resources, apps and libraries for Bitcoin Layer 2.
 
 ## Contents
-
+- [Learning Resources](#learning-resources)
 - [Lightning Network](#lightning-network)
 - [Liquid](#liquid)
 - [RSK](#RSK)
@@ -13,10 +13,8 @@
 - [Contribute](#contributed)
 - [License](#license)
 
-
 ## Learning Resources
 **Recommended reading about the importance of Bitcoin's Layer 2**
-
 - [‘Layer 2’ Blockchain Tech Is an Even Bigger Deal Than You Think](https://www.coindesk.com/layer-2-blockchain-tech-even-bigger-deal-think) - CoinDesk
 - [The Importance of Layer 2
 ](https://medium.com/mit-media-lab-digital-currency-initiative/the-importance-of-layer-2-105189f72102) - Neha Nerula
