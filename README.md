@@ -62,6 +62,7 @@
 - [RSK Overview](https://medium.com/paradigm-fund/rsk-btcs-second-layer-with-merge-mining-and-ethereum-sc-compatibility-5f6f15a3ab02) - a comprehensive review of RSK by Paradigm
 - [Sidechains, Scalability & A Closer Look at Rootstock (RSK)
 ](https://www.nichanank.com/blog/2018/8/26/sidechains-scalability-a-closer-look-at-rootstock-rsk) - an analysis by Nichanan Kesonpat
+- [OPCAT Layer](https://opcatlabs.io/) - Merge-mined Bitcoin L2 with UTXO-based smart contracts (sCrypt) and BTC as gas
 
 ## Echo
 **A Network for Building Bitcoin-powered Applications**
